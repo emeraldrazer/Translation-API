@@ -1,2 +1,2 @@
 # Translation API
- Application thats linked with the Google Translation API from RapidAPI
+You can obtain the API key and API host by visiting the Google Translation API on RapidAPI
